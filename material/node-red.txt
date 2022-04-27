@@ -1,0 +1,10 @@
+Terminal:
+	// instalando o Node Red
+	npm install node-red
+	
+	// iniciando o Node-Red
+	node-red
+
+Instalando no NODE-RED:
+	node-red-node-watson
+	node-red-contrib-telegrambot
